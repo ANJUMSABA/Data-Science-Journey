@@ -79,7 +79,8 @@ SQL/
 ├── README.md
 │
 ├── 00-Database-Setup/
-│   └── 00-EMP-Table-Setup.sql
+│   ├── 00-EMP-Table-Setup.sql
+│   └── 01-EMP-Insert-Values.sql
 │
 ├── 01-SQL-Fundamentals/
 │   ├── 01-SELECT-FROM.sql

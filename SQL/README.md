@@ -6,7 +6,7 @@
 
 Welcome to my SQL learning repository!
 
-This repository showcases my journey of developing SQL skills using **MySQL**, from foundational database concepts to advanced querying techniques.
+This repository showcases my journey of developing SQL skills, currently focusing on MySQL and Oracle SQL, from foundational database concepts to advanced querying techniques.
 
 My focus is on building strong SQL fundamentals, writing efficient queries, analysing data, solving business-oriented problems and developing practical projects using real-world datasets.
 
@@ -21,11 +21,11 @@ My focus is on building strong SQL fundamentals, writing efficient queries, anal
 
 ## 🛠️ Technology Stack
 
-| Category | Tools |
-|---|---|
-| Database | MySQL |
-| IDE | MySQL Workbench |
-| Version Control | Git & GitHub |
+| **Category**    | **Tools**                              |
+|-----------------|----------------------------------------|
+| Database        | **MySQL**, **Oracle SQL**              |
+| IDE             | MySQL Workbench, Oracle SQL Developer  |
+| Version Control | Git & GitHub   
 
 ## 📚 Learning Roadmap
 
@@ -58,21 +58,40 @@ This section contains topic-wise SQL practice questions designed to strengthen m
 - [ ] Aggregate function questions
 - [ ] String and date function questions
 - [ ] Mixed-concept practice questions
+      
+## 🎯 My Approach
 
-## 📂 Repository Structure
-
-```text
-SQL/
-├── README.md
-├── 01-SQL-Fundamentals/
-├── 02-SQL-Functions/
-└── Practice-Questions/
-
-My Approach
 - Learn each concept step by step.
 - Practise questions topic-wise.
 - Write and execute queries independently.
 - Understand the logic behind every solution.
+- Apply SQL concepts to real-world problems.
 - Update this repository as I make progress.
-This repository is a work in progress. More topics and practice solutions will be added as I continue learning SQL.
+
+---
+
+*This repository is a work in progress. More topics and practice solutions will be added as I continue learning SQL.*
+
+## 📂 Repository Structure
+
+SQL/
+│
+├── README.md
+│
+├── 00-Database-Setup/
+│   └── 00-EMP-Table-Setup.sql
+│
+├── 01-SQL-Fundamentals/
+│   ├── 01-SELECT-FROM.sql
+│   ├── 02-DISTINCT.sql
+│   └── 03-Expressions.sql
+│
+├── 02-SQL-Functions/
+│
+├── Practice-Questions/
+│   ├── Basic/
+│   ├── Intermediate/
+│   └── Advanced/
+│
+└── Projects/
 
